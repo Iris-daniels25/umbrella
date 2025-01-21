@@ -4,9 +4,9 @@ require "dotenv/load"
 
 line_width = 40
 
-puts "=" * line_width
+puts "*" * line_width
 puts "Will you need an umbrella today?".center(line_width)
-puts "=" * line_width
+puts "*" * line_width
 puts
 puts "Where are you?"
 user_location = gets.chomp
