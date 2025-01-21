@@ -96,7 +96,7 @@ Add support for international units (Celsius, mm of rain, etc.).
 
 Implement a web or mobile version.
 
-License
+--License
 
 This project is open-source and available under the MIT License.
 
